@@ -3,35 +3,37 @@
 > **This is CHAOSScast,** the CHAOSS Community Podcast where we share use cases and experiences with measuring open source community health. Elevating conversations about metrics, analytics, and software from the Community Health Analytics Open Source Software or short CHAOSS project to where ever you like to listen.
 
 **Table of Content:**
-* [Key roles and people](#key-roles-and-people)
-  * [Roles](#roles)
-  * [Organizers](#organizers)
-  * [Panelists](#panelists)
-  * [Guest](#guest)
-  * [Coordinator](#coordinator)
-  * [Rebase.fm contact](#rebasefm-contact)
-* [Important links](#Important-links)
-* [Strategy](#Strategy)
-  * [Name](name-chaosscast)
-  * [Subtitle](#subtitle)
-  * [Description](#description)
-  * [Goal](#goal)
-  * [Audience](#audience)
-  * [Scope](#scope)
-  * [Style](#style)
-  * [Format](#format)
-  * [Sample interview questions](#sample-interview-questions)
-* [Automation](#Automation)
-* [Procedures](#Procedures)
-  * [Scheduling an episode](#scheduling-an-episode)
-  * [Recording an episode](#recording-an-episode)
-  * [Publishing an episode](#publishing-an-episode-30-40-min)
-* [CHAOSScast sponsorship and revenue](#chaosscast-sponsorship-and-revenue)
-  * [Revenue background](#revenue-background)
-  * [How much revenue?](#how-much-revenue)
-  * [How will the revenue be used?](#how-will-the-revenue-be-used)
-  * [Revenue FAQ](#revenue-faq)
-* [Acknowledgements](#Acknowledgements)
+- [CHAOSScast](#chaosscast)
+  - [Key roles and people](#key-roles-and-people)
+    - [Roles](#roles)
+    - [Organizers](#organizers)
+    - [Panelists](#panelists)
+    - [Guest](#guest)
+    - [Coordinator](#coordinator)
+    - [Rebase.fm contact](#rebasefm-contact)
+  - [Important links](#important-links)
+  - [Strategy](#strategy)
+    - [Name: CHAOSScast](#name-chaosscast)
+    - [Subtitle](#subtitle)
+    - [Description](#description)
+    - [Goal](#goal)
+    - [Audience](#audience)
+    - [Scope](#scope)
+    - [Style](#style)
+    - [Format](#format)
+    - [Sample interview questions](#sample-interview-questions)
+  - [Automation](#automation)
+  - [Procedures](#procedures)
+    - [Scheduling an episode](#scheduling-an-episode)
+    - [Recording an episode](#recording-an-episode)
+    - [Publishing an episode (~30-40 min)](#publishing-an-episode-30-40-min)
+  - [CHAOSScast sponsorship and revenue](#chaosscast-sponsorship-and-revenue)
+    - [Revenue background](#revenue-background)
+    - [How much revenue?](#how-much-revenue)
+    - [How will the revenue be used?](#how-will-the-revenue-be-used)
+      - [Budget item: reinvest in podcast](#budget-item-reinvest-in-podcast)
+    - [Revenue FAQ](#revenue-faq)
+  - [Acknowledgements](#acknowledgements)
 
 
 ## Key roles and people
@@ -108,7 +110,7 @@ CHAOSS partners with the **Rebase.fm** (formerly known as **CodeFund Podcast Net
 
 ### Name: CHAOSScast
 
-The CHAOSS community [discussed names on the mailing list](https://lists.linuxfoundation.org/pipermail/chaoss/2020-March/001205.html). _Aastha Bist's_ suggestion **CHAOSScast**  was an instant favorite. We considered longer names that were more descriptive but decided to go with the short CHAOSScast and leave SEO to the description
+The CHAOSS community [discussed names on the mailing list](https://lists.linuxfoundation.org/pipermail/chaoss/2020-March/001205.html). Aastha Bist's suggestion **CHAOSScast**  was an instant favorite. We considered longer names that were more descriptive but decided to go with the short CHAOSScast and leave SEO to the description
 
 ### Subtitle
 
